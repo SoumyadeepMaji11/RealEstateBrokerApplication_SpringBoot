@@ -35,8 +35,6 @@ public class CustomerController {
 	public String idx;
 	
 
-	//Hello World
-
 	@RequestMapping("/registration")
 	public ModelAndView registrationForm() {
 		return new ModelAndView("addcustomer");
