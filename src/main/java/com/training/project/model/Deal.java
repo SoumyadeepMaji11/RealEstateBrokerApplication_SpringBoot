@@ -23,8 +23,12 @@ public class Deal {
 	private String prop_type;
 	private String city;
 	private String price;
+	
 
 	
+	public Deal() {
+		super();
+	}
 
 	public Deal(int id, String cust_id, String prop_id, String prop_type, String city, String price) {
 		this.id = id;
