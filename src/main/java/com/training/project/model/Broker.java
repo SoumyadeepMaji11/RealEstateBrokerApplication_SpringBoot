@@ -23,9 +23,8 @@ public class Broker {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	
-	
-	
+
+
 	public Broker(String br_id, String br_username, String br_password) {
 		super();
 		this.br_id = br_id;
