@@ -3,31 +3,6 @@
     <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <!DOCTYPE html>
 <html>
-<style>
-  h1 {
-  color: black;
-  text-align: center;
-  text-style:solid;
-  font-size:80px;
-  font-family:Georgia, serif;
-  background-color:white;
-  opacity:0.6;
-  border-style: solid;
-  border-color:white;
-  border-radius:10px;
-  padding:8px;
-  }
-  .link{
-  font-size:40px;
-  border-radius:7px;
-  background-color:rgba(192,192,192,0.6);
-  margin-right:15px;
-  }
-  .link:hover{
-  background-color:white;
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-  }
-</style>
 <head>
 <meta charset="ISO-8859-1">
 <title>Customer Details</title>
