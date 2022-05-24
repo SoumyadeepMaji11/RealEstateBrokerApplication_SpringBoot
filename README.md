@@ -1,2 +1,2 @@
 # RealEstateBrokerApplication_SpringBoot :
-work in progress
+Create a database named 'spboot' in Postgresql then run the application
